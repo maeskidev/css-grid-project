@@ -1,7 +1,6 @@
-Hola :) en este epositorio encontrarás toda la documentación y los recursos que use para este proyecto, 
-también encontrarás algunos apuntes o anotaciones que encuentro utiles.
 
-> 
+> Hola :) en este epositorio encontrarás toda la documentación y los recursos que use para este proyecto, 
+también encontrarás algunos apuntes o anotaciones que encuentro utiles.
 
 
 # CSS-Grid project
@@ -13,10 +12,10 @@ git clone https://github.com/maeskrr/css-grid-project.git
 ```
 
 ## Resources
-1. [Design process](#1-design-proces)
-16. [¡Iniciemos nuestro proyecto! Fase de creatividad e identificación de elementos](#16-iniciemos-nuestro-proyecto-fase-de-creatividad-e-identificación-de-elementos)
+1. [Design process](#1-Design-process-🎨)
 
 
+## A b
 
 ## 1. Design process 🎨
 
